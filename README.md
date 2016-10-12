@@ -1,1 +1,2 @@
-# 7_mistery_fix
+ 7_mistery_fix
+Fixed by adding conditions
